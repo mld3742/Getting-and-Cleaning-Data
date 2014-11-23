@@ -18,8 +18,6 @@ library(data.table)
 ## to test the code
 setwd("/Users/Mark/Dropbox/Coursera/Data Science - Course 3/Week3/Getting-and-Cleaning-Data")
 
-###==========Please do not chnage below==================================
-
 ## Part 4 - Giving appropriate variable name
 ## Assigning the name from the "feature.txt" file
 ## Reading feature data, which will be used to assign the col name to test and train data
