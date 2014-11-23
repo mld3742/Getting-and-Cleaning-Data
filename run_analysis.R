@@ -98,4 +98,4 @@ setnames(all_mean_data,colnames(all_mean_data) , colnames_2)
 
 tidy_data <- copy(all_mean_data)
 setkeyv(tidy_data, c("subject", "label"))
-write.table(tidy_data,"./tidy_data.txt", sep =" ", row.names = F)
+write.table(tidy_data,"./tidy_data.txt", sep =" ", eol = "\r", row.names = F)
