@@ -5,7 +5,6 @@ This code book describes the variables, the data, and the transformations perfor
 Source of Data
 --------------
 Original descriptions:
-
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Original data:
