@@ -66,4 +66,9 @@ There are five parts:
  
 run_analysis.R implementation
 -----------------------------
-* 'reshap2' and 'data.table are required libraries
+- 'reshap2' and 'data.table' are required libraries
+- load data from the test and train folders
+- load the features and activity labels
+- extract the mean and standard deviation column names and data
+- process the data
+- merge the data set
