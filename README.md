@@ -16,4 +16,8 @@ Process for the Project:
  Here are the data for the project: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
  2. Place run_analysis.R in the parent folder of UCI HAR Dateset. You must set this as your working directory.
- 3. Run source("run_analysis.R") to generate a new file called tiny_data.txt in your working directory
+ 3. Run source("run_analysis.R") to generate a new file called tiny_data.txt in your working directory.
+ 
+Dependencies
+----------------------
+Please note that the file run_analysis.R is dependent on reshape2 and data.table.
